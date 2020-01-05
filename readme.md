@@ -1,7 +1,11 @@
-# Self Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Self Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools for self archving and information management
+> A curated list of tools for self archiving and information management
 
+## Related Lists
+- [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity)
+- [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self)
+- [Awesome Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## Contents
 
@@ -9,13 +13,18 @@
 - [Another Section](#another-section)
 
 
-## Section
+## Personal Databases
 
-About this section. Optional. Keep this short and focus on the list.
+Database software for managing large amounts of materials in a multitude of forms
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [DevonThink](https://www.devontechnologies.com/apps/devonthink) - Powerful database software with a focus on text based documents, emails etc. Includes integrated OCR and automatic indexing. (Mac/iOS)
+- [Symphytum](https://github.com/giowck/symphytum#symphytum) - Highly customizable cross platform FOSS database system with integrated syncing. (Linux/MacOS/Windows)
+- [Yojimbo](https://www.barebones.com/products/yojimbo/) - Database software with support for a wide variety of media. (MacOS/iOS)
 
+## Web History, Bookmarks, etc.
+- [ArchiveBox](https://github.com/pirate/ArchiveBox) - FOSS self-hosted web archiving tool written in Python. 
+- [HistoryHound](https://www.stclairsoft.com/HistoryHound/) - Rapid cross-browser keyword search of web history, bookmarks, and RSS feeds. (MacOS)
+- [WorldBrain Memex](https://github.com/WorldBrain/Memex) - Browser plugin for full-text history and bookmark search.
 
 ## Another Section
 
