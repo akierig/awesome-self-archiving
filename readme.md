@@ -35,9 +35,11 @@ Database software for managing large amounts of materials in a multitude of form
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## About
-Just another internet weirdo, determined to hang on to the web and computers as they once mainly were.
-## License
+Just another internet weirdo, determined to hang on to the web and computers as 
+they once mainly were. I live at [anelki.net](https://anelki.net) and on [tilde.chat](https://tilde.chat).
 
+
+## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, akierig has waived all copyright and related or neighboring rights to this work.
